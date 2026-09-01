@@ -6,3 +6,4 @@ Check these off as you review them!
 - [ ] **Third Maximum Number** (LeetCode - Unknown) | [View Solution](./LeetCode/Unknown/Third%20Maximum%20Number)
 - [ ] **Matrix Diagonal Sum** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Matrix%20Diagonal%20Sum)
 - [ ] **Reverse String** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Reverse%20String)
+- [ ] **Valid Anagram** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Valid%20Anagram)
