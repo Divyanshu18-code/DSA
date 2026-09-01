@@ -9,14 +9,13 @@
 | **Tags** | Two Pointers, String |
 | **Link** | [View Problem](https://leetcode.com/problems/reverse-string/) |
 | **Runtime** | 0 ms |
-| **Memory** | 8.1 MB |
+| **Memory** | 27.2 MB |
 
 ## Approach
 
-swap characters logic is                                                     char temp = s[left];
-s[left] = s[right];
-s[right] = temp;                                                                  left++;
-right--;
+swap characters logic is char temp = s[left]; s[left] = s[right]; s[right] = temp; left++; right--;
+
+
 
 ## Problem Description
 
