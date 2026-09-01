@@ -8,5 +8,6 @@ All solved problems organized by pattern/category.
 - [Move Zeroes](./LeetCode/Easy/Move%20Zeroes) - *Easy*
 
 ## Uncategorized
+- [Reverse Words in a String III](./LeetCode/Easy/Reverse%20Words%20in%20a%20String%20III) - *Easy*
 - [Reverse String](./LeetCode/Easy/Reverse%20String) - *Easy*
 - [Matrix Diagonal Sum](./LeetCode/Easy/Matrix%20Diagonal%20Sum) - *Easy*
