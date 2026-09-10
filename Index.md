@@ -8,6 +8,7 @@ All solved problems organized by pattern/category.
 - [Move Zeroes](./LeetCode/Easy/Move%20Zeroes) - *Easy*
 
 ## Uncategorized
+- [Valid Mountain Array](./LeetCode/Easy/Valid%20Mountain%20Array) - *Easy*
 - [Search Insert Position](./LeetCode/Easy/Search%20Insert%20Position) - *Easy*
 - [Valid Anagram](./LeetCode/Easy/Valid%20Anagram) - *Easy*
 - [Reverse Words in a String III](./LeetCode/Easy/Reverse%20Words%20in%20a%20String%20III) - *Easy*
