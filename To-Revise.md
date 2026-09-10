@@ -7,3 +7,4 @@ Check these off as you review them!
 - [ ] **Matrix Diagonal Sum** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Matrix%20Diagonal%20Sum)
 - [ ] **Reverse String** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Reverse%20String)
 - [ ] **Valid Anagram** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Valid%20Anagram)
+- [ ] **Search Insert Position** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Search%20Insert%20Position)
