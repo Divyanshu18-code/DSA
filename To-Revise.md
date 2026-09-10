@@ -8,3 +8,4 @@ Check these off as you review them!
 - [ ] **Reverse String** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Reverse%20String)
 - [ ] **Valid Anagram** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Valid%20Anagram)
 - [ ] **Search Insert Position** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Search%20Insert%20Position)
+- [ ] **Valid Mountain Array** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Valid%20Mountain%20Array)
