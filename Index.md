@@ -8,6 +8,7 @@ All solved problems organized by pattern/category.
 - [Move Zeroes](./LeetCode/Easy/Move%20Zeroes) - *Easy*
 
 ## Uncategorized
+- [Spiral Matrix](./LeetCode/Medium/Spiral%20Matrix) - *Medium*
 - [Remove Duplicates from Sorted Array](./LeetCode/Easy/Remove%20Duplicates%20from%20Sorted%20Array) - *Easy*
 - [Valid Mountain Array](./LeetCode/Easy/Valid%20Mountain%20Array) - *Easy*
 - [Search Insert Position](./LeetCode/Easy/Search%20Insert%20Position) - *Easy*
