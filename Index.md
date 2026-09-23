@@ -19,6 +19,7 @@ All solved problems organized by pattern/category.
 - [Matrix Diagonal Sum](./LeetCode/Easy/Matrix%20Diagonal%20Sum) - *Easy*
 
 ## 2D Array
+- [Flipping an Image](./LeetCode/Easy/Flipping%20an%20Image) - *Easy*
 - [Shift 2D Grid](./LeetCode/Easy/Shift%202D%20Grid) - *Easy*
 - [Count Negative Numbers in a Sorted Matrix](./LeetCode/Easy/Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix) - *Easy*
 - [Special Positions in a Binary Matrix](./LeetCode/Easy/Special%20Positions%20in%20a%20Binary%20Matrix) - *Easy*
