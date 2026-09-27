@@ -33,3 +33,6 @@ All solved problems organized by pattern/category.
 
 ## Math
 - [Reverse Integer](./LeetCode/Medium/Reverse%20Integer) - *Medium*
+
+## String
+- [Longest Common Prefix](./LeetCode/Easy/Longest%20Common%20Prefix) - *Easy*
