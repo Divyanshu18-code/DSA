@@ -35,4 +35,5 @@ All solved problems organized by pattern/category.
 - [Reverse Integer](./LeetCode/Medium/Reverse%20Integer) - *Medium*
 
 ## String
+- [Detect Capital](./LeetCode/Easy/Detect%20Capital) - *Easy*
 - [Longest Common Prefix](./LeetCode/Easy/Longest%20Common%20Prefix) - *Easy*
