@@ -35,6 +35,7 @@ All solved problems organized by pattern/category.
 - [Reverse Integer](./LeetCode/Medium/Reverse%20Integer) - *Medium*
 
 ## String
+- [Goat Latin](./LeetCode/Easy/Goat%20Latin) - *Easy*
 - [Isomorphic Strings](./LeetCode/Easy/Isomorphic%20Strings) - *Easy*
 - [Buddy Strings](./LeetCode/Easy/Buddy%20Strings) - *Easy*
 - [Long Pressed Name](./LeetCode/Easy/Long%20Pressed%20Name) - *Easy*
