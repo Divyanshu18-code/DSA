@@ -35,6 +35,7 @@ All solved problems organized by pattern/category.
 - [Reverse Integer](./LeetCode/Medium/Reverse%20Integer) - *Medium*
 
 ## String
+- [Count Binary Substrings](./LeetCode/Easy/Count%20Binary%20Substrings) - *Easy*
 - [Goat Latin](./LeetCode/Easy/Goat%20Latin) - *Easy*
 - [Isomorphic Strings](./LeetCode/Easy/Isomorphic%20Strings) - *Easy*
 - [Buddy Strings](./LeetCode/Easy/Buddy%20Strings) - *Easy*
