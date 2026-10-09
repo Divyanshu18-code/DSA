@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Arrays & Hashing
+- [Two Sum](./LeetCode/Easy/Two%20Sum) - *Easy*
 - [Pow(x, n)](./LeetCode/Medium/Powx%20n) - *Medium*
 - [Sort Colors](./LeetCode/Medium/Sort%20Colors) - *Medium*
 - [Squares of a Sorted Array](./LeetCode/Easy/Squares%20of%20a%20Sorted%20Array) - *Easy*
