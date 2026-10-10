@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Arrays & Hashing
+- [3Sum](./LeetCode/Medium/3Sum) - *Medium*
 - [Two Sum](./LeetCode/Easy/Two%20Sum) - *Easy*
 - [Pow(x, n)](./LeetCode/Medium/Powx%20n) - *Medium*
 - [Sort Colors](./LeetCode/Medium/Sort%20Colors) - *Medium*
