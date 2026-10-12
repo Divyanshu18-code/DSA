@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Arrays & Hashing
+- [Max Consecutive Ones](./LeetCode/Easy/Max%20Consecutive%20Ones) - *Easy*
 - [4Sum](./LeetCode/Medium/4Sum) - *Medium*
 - [3Sum](./LeetCode/Medium/3Sum) - *Medium*
 - [Two Sum](./LeetCode/Easy/Two%20Sum) - *Easy*
