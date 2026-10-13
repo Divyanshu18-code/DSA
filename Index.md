@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Arrays & Hashing
+- [Merge Sorted Array](./LeetCode/Easy/Merge%20Sorted%20Array) - *Easy*
 - [Max Consecutive Ones](./LeetCode/Easy/Max%20Consecutive%20Ones) - *Easy*
 - [4Sum](./LeetCode/Medium/4Sum) - *Medium*
 - [3Sum](./LeetCode/Medium/3Sum) - *Medium*
