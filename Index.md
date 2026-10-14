@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Arrays & Hashing
+- [Find Missing and Repeated Values](./LeetCode/Easy/Find%20Missing%20and%20Repeated%20Values) - *Easy*
 - [Merge Sorted Array](./LeetCode/Easy/Merge%20Sorted%20Array) - *Easy*
 - [Max Consecutive Ones](./LeetCode/Easy/Max%20Consecutive%20Ones) - *Easy*
 - [4Sum](./LeetCode/Medium/4Sum) - *Medium*
