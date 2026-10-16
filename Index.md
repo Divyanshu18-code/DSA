@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Arrays & Hashing
+- [Next Permutation](./LeetCode/Medium/Next%20Permutation) - *Medium*
 - [Container With Most Water](./LeetCode/Medium/Container%20With%20Most%20Water) - *Medium*
 - [Find Missing and Repeated Values](./LeetCode/Easy/Find%20Missing%20and%20Repeated%20Values) - *Easy*
 - [Merge Sorted Array](./LeetCode/Easy/Merge%20Sorted%20Array) - *Easy*
