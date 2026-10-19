@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Arrays & Hashing
+- [Subarray Sum Equals K](./LeetCode/Medium/Subarray%20Sum%20Equals%20K) - *Medium*
 - [Add Two Integers](./LeetCode/Easy/Add%20Two%20Integers) - *Easy*
 - [Product of Array Except Self](./LeetCode/Medium/Product%20of%20Array%20Except%20Self) - *Medium*
 - [Next Permutation](./LeetCode/Medium/Next%20Permutation) - *Medium*
