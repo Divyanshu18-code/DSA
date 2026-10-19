@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Arrays & Hashing
+- [Add Two Integers](./LeetCode/Easy/Add%20Two%20Integers) - *Easy*
 - [Product of Array Except Self](./LeetCode/Medium/Product%20of%20Array%20Except%20Self) - *Medium*
 - [Next Permutation](./LeetCode/Medium/Next%20Permutation) - *Medium*
 - [Container With Most Water](./LeetCode/Medium/Container%20With%20Most%20Water) - *Medium*
