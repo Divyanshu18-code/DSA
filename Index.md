@@ -65,3 +65,6 @@ All solved problems organized by pattern/category.
 - [Reverse Only Letters](./LeetCode/Easy/Reverse%20Only%20Letters) - *Easy*
 - [Detect Capital](./LeetCode/Easy/Detect%20Capital) - *Easy*
 - [Longest Common Prefix](./LeetCode/Easy/Longest%20Common%20Prefix) - *Easy*
+
+## Recursion
+- [Count Good Numbers](./LeetCode/Medium/Count%20Good%20Numbers) - *Medium*
