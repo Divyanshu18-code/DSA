@@ -68,3 +68,6 @@ All solved problems organized by pattern/category.
 
 ## Recursion
 - [Count Good Numbers](./LeetCode/Medium/Count%20Good%20Numbers) - *Medium*
+
+## Merge Sort
+- [Reverse Pairs](./LeetCode/Hard/Reverse%20Pairs) - *Hard*
