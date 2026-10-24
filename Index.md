@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Arrays & Hashing
+- [Find the Duplicate Number](./LeetCode/Medium/Find%20the%20Duplicate%20Number) - *Medium*
 - [Sliding Window Maximum](./LeetCode/Hard/Sliding%20Window%20Maximum) - *Hard*
 - [Subarray Sum Equals K](./LeetCode/Medium/Subarray%20Sum%20Equals%20K) - *Medium*
 - [Add Two Integers](./LeetCode/Easy/Add%20Two%20Integers) - *Easy*
