@@ -54,6 +54,7 @@ All solved problems organized by pattern/category.
 - [Reverse Integer](./LeetCode/Medium/Reverse%20Integer) - *Medium*
 
 ## String
+- [Reverse Words in a String](./LeetCode/Medium/Reverse%20Words%20in%20a%20String) - *Medium*
 - [Longest Substring Without Repeating Characters](./LeetCode/Medium/Longest%20Substring%20Without%20Repeating%20Characters) - *Medium*
 - [Count Binary Substrings](./LeetCode/Easy/Count%20Binary%20Substrings) - *Easy*
 - [Goat Latin](./LeetCode/Easy/Goat%20Latin) - *Easy*
