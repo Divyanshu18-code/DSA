@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Arrays & Hashing
+- [Find Numbers with Even Number of Digits](./LeetCode/Easy/Find%20Numbers%20with%20Even%20Number%20of%20Digits) - *Easy*
 - [Find the Duplicate Number](./LeetCode/Medium/Find%20the%20Duplicate%20Number) - *Medium*
 - [Sliding Window Maximum](./LeetCode/Hard/Sliding%20Window%20Maximum) - *Hard*
 - [Subarray Sum Equals K](./LeetCode/Medium/Subarray%20Sum%20Equals%20K) - *Medium*
