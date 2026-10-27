@@ -74,3 +74,6 @@ All solved problems organized by pattern/category.
 
 ## Merge Sort
 - [Reverse Pairs](./LeetCode/Hard/Reverse%20Pairs) - *Hard*
+
+## Searching & Sorting
+- [Intersection of Two Arrays](./LeetCode/Easy/Intersection%20of%20Two%20Arrays) - *Easy*
