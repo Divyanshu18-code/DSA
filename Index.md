@@ -79,6 +79,7 @@ All solved problems organized by pattern/category.
 - [Reverse Pairs](./LeetCode/Hard/Reverse%20Pairs) - *Hard*
 
 ## Searching & Sorting
+- [Single Element in a Sorted Array](./LeetCode/Medium/Single%20Element%20in%20a%20Sorted%20Array) - *Medium*
 - [Sort Array By Parity II](./LeetCode/Easy/Sort%20Array%20By%20Parity%20II) - *Easy*
 - [Remove Duplicates from Sorted Array II](./LeetCode/Medium/Remove%20Duplicates%20from%20Sorted%20Array%20II) - *Medium*
 - [Find Peak Element](./LeetCode/Medium/Find%20Peak%20Element) - *Medium*
