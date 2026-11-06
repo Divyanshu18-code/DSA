@@ -79,6 +79,7 @@ All solved problems organized by pattern/category.
 - [Reverse Pairs](./LeetCode/Hard/Reverse%20Pairs) - *Hard*
 
 ## Searching & Sorting
+- [Relative Sort Array](./LeetCode/Easy/Relative%20Sort%20Array) - *Easy*
 - [Find Smallest Letter Greater Than Target](./LeetCode/Easy/Find%20Smallest%20Letter%20Greater%20Than%20Target) - *Easy*
 - [Single Element in a Sorted Array](./LeetCode/Medium/Single%20Element%20in%20a%20Sorted%20Array) - *Medium*
 - [Sort Array By Parity II](./LeetCode/Easy/Sort%20Array%20By%20Parity%20II) - *Easy*
