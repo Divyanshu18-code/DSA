@@ -74,6 +74,7 @@ All solved problems organized by pattern/category.
 - [Longest Common Prefix](./LeetCode/Easy/Longest%20Common%20Prefix) - *Easy*
 
 ## Recursion
+- [Combination Sum II](./LeetCode/Medium/Combination%20Sum%20II) - *Medium*
 - [Combination Sum](./LeetCode/Medium/Combination%20Sum) - *Medium*
 - [Count Good Numbers](./LeetCode/Medium/Count%20Good%20Numbers) - *Medium*
 
