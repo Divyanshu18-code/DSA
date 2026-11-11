@@ -82,6 +82,7 @@ All solved problems organized by pattern/category.
 - [Reverse Pairs](./LeetCode/Hard/Reverse%20Pairs) - *Hard*
 
 ## Searching & Sorting
+- [The K Weakest Rows in a Matrix](./LeetCode/Easy/The%20K%20Weakest%20Rows%20in%20a%20Matrix) - *Easy*
 - [First Bad Version](./LeetCode/Easy/First%20Bad%20Version) - *Easy*
 - [Relative Sort Array](./LeetCode/Easy/Relative%20Sort%20Array) - *Easy*
 - [Find Smallest Letter Greater Than Target](./LeetCode/Easy/Find%20Smallest%20Letter%20Greater%20Than%20Target) - *Easy*
