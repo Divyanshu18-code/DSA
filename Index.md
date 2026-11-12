@@ -92,3 +92,6 @@ All solved problems organized by pattern/category.
 - [Find Peak Element](./LeetCode/Medium/Find%20Peak%20Element) - *Medium*
 - [Peak Index in a Mountain Array](./LeetCode/Medium/Peak%20Index%20in%20a%20Mountain%20Array) - *Medium*
 - [Intersection of Two Arrays](./LeetCode/Easy/Intersection%20of%20Two%20Arrays) - *Easy*
+
+## Stack & Queue
+- [Valid Parentheses](./LeetCode/Easy/Valid%20Parentheses) - *Easy*
