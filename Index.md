@@ -94,5 +94,6 @@ All solved problems organized by pattern/category.
 - [Intersection of Two Arrays](./LeetCode/Easy/Intersection%20of%20Two%20Arrays) - *Easy*
 
 ## Stack & Queue
+- [Implement Queue using Stacks](./LeetCode/Easy/Implement%20Queue%20using%20Stacks) - *Easy*
 - [Implement Stack using Queues](./LeetCode/Easy/Implement%20Stack%20using%20Queues) - *Easy*
 - [Valid Parentheses](./LeetCode/Easy/Valid%20Parentheses) - *Easy*
