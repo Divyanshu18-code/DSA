@@ -101,5 +101,6 @@ All solved problems organized by pattern/category.
 - [Valid Parentheses](./LeetCode/Easy/Valid%20Parentheses) - *Easy*
 
 ## Linked List
+- [Remove Linked List Elements](./LeetCode/Easy/Remove%20Linked%20List%20Elements) - *Easy*
 - [Middle of the Linked List](./LeetCode/Easy/Middle%20of%20the%20Linked%20List) - *Easy*
 - [Reverse Linked List](./LeetCode/Easy/Reverse%20Linked%20List) - *Easy*
