@@ -94,6 +94,7 @@ All solved problems organized by pattern/category.
 - [Intersection of Two Arrays](./LeetCode/Easy/Intersection%20of%20Two%20Arrays) - *Easy*
 
 ## Stack & Queue
+- [Next Greater Element II](./LeetCode/Medium/Next%20Greater%20Element%20II) - *Medium*
 - [Remove All Adjacent Duplicates In String](./LeetCode/Easy/Remove%20All%20Adjacent%20Duplicates%20In%20String) - *Easy*
 - [Next Greater Element I](./LeetCode/Easy/Next%20Greater%20Element%20I) - *Easy*
 - [Implement Queue using Stacks](./LeetCode/Easy/Implement%20Queue%20using%20Stacks) - *Easy*
